@@ -1,0 +1,35 @@
+_repo: La-transformaci-n-de-las-razas-en-Am-rica_26947
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Mota, Arturo E. de la
+    gutenberg_agent_id: '32354'
+    url: http://www.gutenberg.org/2009/agents/32354
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alvarez, Agustín
+    aliases:
+    - Alvarez Suarez, Agustin Enrique
+    - Alvarez Suárez, Agustín Enrique
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '32353'
+    url: http://www.gutenberg.org/2009/agents/32353
+description: ''
+gutenberg_issued: '2008-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26947'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1401'
+- !lcsh 'America -- Civilization'
+- !lcsh 'Latin America -- Civilization'
+title: La transformación de las razas en América
+url: http://www.gutenberg.org/ebooks/26947
