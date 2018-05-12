@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '32353'
     url: http://www.gutenberg.org/2009/agents/32353
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26947#La-transformaci-n-de-las-razas-en-Am-rica
 gutenberg_issued: '2008-10-18'
 gutenberg_type: Text
 identifiers:
